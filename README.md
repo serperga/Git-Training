@@ -7,3 +7,5 @@ Git training course
 
 * Ejercicio 2: commit 2
 * Ejercicio 2: commit 3
+
+*Ejercicio 3 : commit 1
