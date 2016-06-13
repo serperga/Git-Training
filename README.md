@@ -17,3 +17,6 @@ Ejercicio 4: merge desde FeatureGFT
 * Ejercicio 4 : merge
 
 * Hotfix
+
+* Feature 1
+* Feature 2
