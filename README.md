@@ -9,3 +9,5 @@ Git training course
 * Ejercicio 2: commit 3
 
 *Ejercicio 3 : commit 1
+
+Ejercicio 4: merge desde FeatureGFT
